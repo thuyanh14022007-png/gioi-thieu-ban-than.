@@ -12,3 +12,8 @@ Xin chào! Mình là sinh viên ngành Sư phạm Tin học tại Trường Đ�
 ### Thông tin liên hệ
 * **Email:** thuyanh14022007@gmail.com
 * **Facebook:**[(https://www.facebook.com/thuy.anh.nguyen.399901)]
+
+### Một câu trích dẫn yêu thích
+<blockquote cite="https://wikipedia.org">
+  <p>"Too fast to live, too young to die."</p>
+</blockquote>
